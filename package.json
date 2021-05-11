@@ -2,10 +2,14 @@
   "name": "puppeteer-auto",
   "version": "1.0.0",
   "description": "模拟用户,自动化爬取网站",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
+    "start": "node src/index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
 }
