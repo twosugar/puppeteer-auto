@@ -1,10 +1,9 @@
 {
-  "name": "puppeteer-auto",
+  "name": "puppeteer-note",
   "version": "1.0.0",
-  "description": "模拟用户,自动化爬取网站",
+  "description": "puppeteer学习笔记",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
