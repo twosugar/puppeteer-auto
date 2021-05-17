@@ -5,3 +5,5 @@
 ### 初识 puppeteer
 
 - [puppeteer简介](https://github.com/twosugar/puppeteer-notes/blob/master/notes/introduction.md)
+
+- [安装](https://github.com/twosugar/puppeteer-notes/blob/master/notes/install.md)
