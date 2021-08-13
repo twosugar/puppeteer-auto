@@ -1,6 +1,6 @@
 # 一个简单的 demo
 
-利用 puppeteer 打开浏览器百度搜索相应内容
+利用 puppeteer 打开浏览器百度搜索相应内容(node demo/first-demo.js)
 
 ```
 const puppeteer = require('puppeteer');
